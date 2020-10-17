@@ -1,0 +1,49 @@
+Ferrer Gordon Rex
+
+====GRADE====
+- Compilation	 2.5 pts 
+- Runs	 2.5 pts 
+- Traversal	 10 pts 
+- Student's test cases	 5 pts 
+- Instructor's test cases	 80 pts 
+TOTAL = 100
+
+
+====COMPILATION OUTPUT====
+
+STDOUT: 
+
+STDERR: 
+
+====jUNIT OUTPUT====
+
+STDOUT: [36m╷[0m
+[36m├─[0m [36mJUnit Jupiter[0m [32m✔[0m
+[36m│  └─[0m [36mHw2DoublyLinkedList[0m [32m✔[0m
+[36m│     ├─[0m [34mAdd node (with index)[0m [32m✔[0m
+[36m│     ├─[0m [34mGet node[0m [32m✔[0m
+[36m│     ├─[0m [34mSize[0m [32m✔[0m
+[36m│     ├─[0m [34mClear list[0m [32m✔[0m
+[36m│     ├─[0m [34mRemove node[0m [32m✔[0m
+[36m│     ├─[0m [34mGet node traverses from both ends[0m [32m✔[0m
+[36m│     ├─[0m [34mMethods throw IndexOutOfBounds[0m [32m✔[0m
+[36m│     └─[0m [34mSet node[0m [32m✔[0m
+[36m└─[0m [36mJUnit Vintage[0m [32m✔[0m
+
+Test run finished after 146 ms
+[         3 containers found      ]
+[         0 containers skipped    ]
+[         3 containers started    ]
+[         0 containers aborted    ]
+[         3 containers successful ]
+[         0 containers failed     ]
+[         8 tests found           ]
+[         0 tests skipped         ]
+[         8 tests started         ]
+[         0 tests aborted         ]
+[         8 tests successful      ]
+[         0 tests failed          ]
+
+
+
+STDERR: 

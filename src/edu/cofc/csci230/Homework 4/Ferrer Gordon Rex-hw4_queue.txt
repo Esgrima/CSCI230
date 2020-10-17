@@ -1,0 +1,50 @@
+Ferrer Gordon Rex
+
+====GRADE====
+- Compilation	 10 pts 
+- Time complexity requirements	 15 pts 
+- Student's test cases	 5 pts 
+- Instructor's test cases	 70 pts 
+TOTAL = 100
+
+====COMPILATION OUTPUT====
+
+STDOUT: 
+
+STDERR: Note: /Users/Lou/eclipse-workspace/230-HW/src/edu/cofc/csci230/ArrayList.java uses unchecked or unsafe operations.
+Note: Recompile with -Xlint:unchecked for details.
+
+
+====jUNIT OUTPUT====
+
+STDOUT: 13
+11
+[36m╷[0m
+[36m├─[0m [36mJUnit Jupiter[0m [32m✔[0m
+[36m│  └─[0m [36mHw4ConstantTimeQueue[0m [32m✔[0m
+[36m│     ├─[0m [34mQueue - Constant time remove[0m [32m✔[0m
+[36m│     ├─[0m [34mQueue - Remove[0m [32m✔[0m
+[36m│     ├─[0m [34mQueue - Remove empty[0m [32m✔[0m
+[36m│     ├─[0m [34mQueue - Peek[0m [32m✔[0m
+[36m│     ├─[0m [34mQueue - Add[0m [32m✔[0m
+[36m│     ├─[0m [34mQueue - Constant time add[0m [32m✔[0m
+[36m│     └─[0m [34mQueue - Peek empty[0m [32m✔[0m
+[36m└─[0m [36mJUnit Vintage[0m [32m✔[0m
+
+Test run finished after 185 ms
+[         3 containers found      ]
+[         0 containers skipped    ]
+[         3 containers started    ]
+[         0 containers aborted    ]
+[         3 containers successful ]
+[         0 containers failed     ]
+[         7 tests found           ]
+[         0 tests skipped         ]
+[         7 tests started         ]
+[         0 tests aborted         ]
+[         7 tests successful      ]
+[         0 tests failed          ]
+
+
+
+STDERR: 
